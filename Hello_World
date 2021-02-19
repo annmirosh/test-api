@@ -9,7 +9,7 @@
 // To define a voice command, we will use the 'intent()' function (https://alan.app/docs/server-api/commands-and-responses#intent).
 // Responses can be played back to the user with the 'play()' function (https://alan.app/docs/server-api/commands-and-responses#play).
 
-intent('Hello world', p => {
+intent('Hello world111', p => {
     p.play('Hi there');
 });
 
