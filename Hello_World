@@ -1,4 +1,4 @@
-intent('Hi1', p => {
+intent('Hi2', p => {
     p.play('Hi there');
 });
 
