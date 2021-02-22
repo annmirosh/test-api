@@ -1,1 +1,1 @@
-intent();
+intent('hi', 'hello');
