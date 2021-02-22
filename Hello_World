@@ -1,15 +1,4 @@
-// {Name: Hello_World}
-// {Description: Hello World example of the Alan Platform functionality: intent() / play() / user- and pre-defined slots / contexts}
-
-// Welcome to the Alan Platform.
-// This example will introduce you to the main principles of Alan scripts and teach you how to create basic voice commands for your application.
-// Other examples will cover more advanced commands and script logic.
-//
-// Let's start with a simple command.
-// To define a voice command, we will use the 'intent()' function (https://alan.app/docs/server-api/commands-and-responses#intent).
-// Responses can be played back to the user with the 'play()' function (https://alan.app/docs/server-api/commands-and-responses#play).
-
-intent('Hi', p => {
+intent('Hi1', p => {
     p.play('Hi there');
 });
 
