@@ -7,8 +7,8 @@ intent('hi', reply('hello'));
 
 // we need to use intents there Smal
 
-question(JJJ
-    'hello',
+question(
+    'hello00',
     'hi (there|)',
     'what\'s up',
     reply(
