@@ -1,9 +1,13 @@
 // {Name: SmallTalk}
 // {Description: Gives responses to casual conversation.}
 
-title('Small talk')
+title('Small talk');
 
-question(
+intent('hi', reply('hello'));
+
+// we need to use intents there Smal
+
+question(JJJ
     'hello',
     'hi (there|)',
     'what\'s up',
