@@ -1,1 +1,1 @@
-intent('2', reply('answer-2'));
+intent('hi', reply('hey'));
