@@ -1,1 +1,1 @@
-intent('hi', reply('hey'));
+intent('hi', reply('777'));
